@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentDB/1.0.0": {
+        "dependencies": {
+          "CustomExceptions": "1.0.0"
+        },
+        "runtime": {
+          "StudentDB.dll": {}
+        }
+      },
+      "CustomExceptions/1.0.0": {
+        "runtime": {
+          "CustomExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
